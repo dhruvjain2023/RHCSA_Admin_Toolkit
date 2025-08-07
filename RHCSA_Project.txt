@@ -1,4 +1,4 @@
-.bashrc command 
+# .bashrc command 
 
 if [[ $- == *i* ]] && [ -z "$RHSCA_TOOLKIT_DONE" ]; then
     export RHSCA_TOOLKIT_DONE=1
@@ -12,7 +12,7 @@ fi
 
 
 
-rhcsa script command
+#rhcsa script command
 
 
 #!/bin/bash
@@ -123,6 +123,7 @@ while true; do
             ;;
     esac
 done
+
 
 
 
