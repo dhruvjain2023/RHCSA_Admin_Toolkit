@@ -23,11 +23,14 @@ Designed for root users, this script allows you to automate and manage frequent 
 ### 📸 Main Menu View
 
 
-![Welcome Banner](./images/welcome_banner.jpg)
+![WhatsApp Image 2025-08-07 at 15 11 38_46e539e0](https://github.com/user-attachments/assets/5a856e99-d0a3-427b-ab76-e380e1f1fb99)
+
 
 ### 📸 Exit Screen
 
-![Exit Goodbye](./images/exit_goodbye.jpg)
+![WhatsApp Image 2025-08-07 at 15 11 38_fedcf67e](https://github.com/user-attachments/assets/836e0818-7536-48f1-9794-f767e5246f2b)
+
+
 
 
 ## 🚀 How to Use
